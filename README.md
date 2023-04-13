@@ -16,7 +16,8 @@ Requirement are in [requirements.txt](requirements.txt). To install the necessar
 pip install -r requirements.txt
 ```
 ## Tutorials
-- [Create GeoTIFF Grids from Subsets API](grids_modis_api.ipynb)
+- [Create GeoTIFF Grids from Subsets API](notebooks/grids_modis_api.ipynb)
+- [Getting Started with ICESAT-2 ATL08 subset data](notebooks/getting_started_icesat2_atl08.ipynb)
 
 ## Related Resources
 - https://modis.ornl.gov/resources.html
