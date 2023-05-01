@@ -20,6 +20,8 @@ pip install -r requirements.txt
 - [Getting Started with ICESAT-2 ATL08 subset data](notebooks/getting_started_icesat2_atl08.ipynb)
 
 ## Related Resources
-- https://modis.ornl.gov/resources.html
+- [Webinars and Tutorials](https://modis.ornl.gov/resources.html#elearning)
+- [Classroom Exercises](https://modis.ornl.gov/resources.html)
+- [Community contributed tools and software](https://modis.ornl.gov/resources.html#tools)
 
 More resources related to ORNL DAAC data and web services can be found at the [ORNL DAAC Learning](https://daac.ornl.gov/resources/learning/) page.
