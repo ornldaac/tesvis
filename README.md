@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ## Tutorials
 - [Create GeoTIFF Grids from Subsets API](notebooks/grids_modis_api.ipynb)
 - [Getting Started with ICESAT-2 ATL08 subset data](notebooks/getting_started_icesat2_atl08.ipynb)
+- [Using Fixed Sites Subsets Tool Application Programming Interface (API)](notebooks/fixedsites_api.ipynb)
 
 ## Related Resources
 - [Webinars and Tutorials](https://modis.ornl.gov/resources.html#elearning)
