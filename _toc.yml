@@ -1,0 +1,20 @@
+# Table of contents
+
+format: jb-book
+root: README
+parts:
+  - caption: Global Subsets Tool
+    numbered: false
+    chapters:
+      sections:
+        - file: notebooks/getting_started_icesat2_atl08
+  - caption: Fixed Sites Tool
+    numbered: false
+    chapters:
+      sections:
+        - file: notebooks/fixedsites_api
+  - caption: Web Services
+    numbered: false
+    chapters:
+      sections:
+        - file: notebooks/grids_modis_api
