@@ -7,6 +7,7 @@ parts:
     numbered: false
     chapters:
     - file: notebooks/getting_started_icesat2_atl08
+    - file: notebooks/grid_visualization
   - caption: Fixed Sites Tool
     numbered: false
     chapters:
