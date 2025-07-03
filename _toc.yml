@@ -15,3 +15,7 @@ parts:
     numbered: false
     chapters:
     - file: notebooks/grids_modis_api
+  - caption: Resources
+    numbered: false
+    chapters:
+    - file: docs/resources

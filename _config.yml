@@ -2,7 +2,7 @@
 
 title: Tutorials on Terrestrial Ecology Subsetting & Visualization Services (TESViS)
 author: ORNL DAAC
-logo: docs/images/ornldaac.png
+logo: docs/images/tesvis-logo.png
 
 # Force re-execution of notebooks on each build.
 execute:
